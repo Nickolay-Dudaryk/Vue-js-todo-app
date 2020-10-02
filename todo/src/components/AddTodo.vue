@@ -32,6 +32,7 @@ export default {
 <style scoped>
 form {
   padding-bottom: 10px;
+  margin-top: 25px;
   display: flex;
   justify-content: center;
 }

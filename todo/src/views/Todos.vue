@@ -69,3 +69,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+select {
+  margin-bottom: 25px;
+}
+</style>
